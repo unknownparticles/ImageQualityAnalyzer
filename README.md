@@ -48,10 +48,6 @@ Image similarity analysis:
         image2.jpg: 0.95
 ```
 
-**GitHub:**
-
-[移除了无效网址]
-
 **Keywords:** image quality, image analysis, OpenCV, Python, similarity search
 
 **Description:**
